@@ -6,4 +6,4 @@ Ejercicios practicos en lenguaje sql  donde se toma como ejemplo  un restaurante
 poner en practica lo aprendido en el modulo de sql del curso analisis de datos al identificar  los productos del menú que han tenido más éxito y cuales son los
  menos han gustado a los clientes.
 ## Resultado
-los resultados de las consultas realizadas como ejercicios practicos se encuentran el el archivo sql dentro de este mismo 
+los resultados de las consultas realizadas como ejercicios practicos se encuentran el el archivo sql dentro de este mismo repositorio
